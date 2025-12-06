@@ -23,6 +23,8 @@ Task 1: Basic HTML PageSteps
  the HTML file to view the changes in the
  browser.
 
+ LEVEL 2 INTERMEDIATE
+
  Task 3: Responsive Design
  Objective: Ensure the webpage layout adjusts appropriately for different screen sizes,improving user experience across various devices
   Steps:
