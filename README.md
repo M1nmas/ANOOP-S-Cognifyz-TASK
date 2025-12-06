@@ -48,3 +48,30 @@ Objective: Enhance user engagement by adding interactive elements and implementi
  3.Test the functionality by clicking the button
  and observing the background color
  change.
+
+LEVEL 3 ADVANCED 
+
+Task 5: Task: API Integration
+
+ Objective: Integrate external data sources to  provide dynamic content, expanding the  website's capabilities information.
+ Steps: 
+ 1.Choose a public API (e.g., JSONPlaceholder)
+ and understand its endpoints.
+ 2.Use fetch() in script.js to retrieve data from 
+ the API
+ 3.Parse the JSON data and dynamically
+ update the DOM to display the fetched
+ information
+
+ Task 6: Form Styling and Validation
+
+ Objective: Improve usability and data integrity by designing visually appealing forms and implementing client-side validation for user input.
+  Steps:
+ 1.Design a form in index.html with appropriate
+ input fields and labels.
+ 2.Style the form using CSS in styles.css.
+ 3.Implement client-side form validation in
+ script.js to validate user input before
+ submission.
+ 4.Provide feedback to the user about validation
+ errors.
